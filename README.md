@@ -1,3 +1,5 @@
+CRUD in Next.js Using Zod, Shadcn, Prisma, Mongodb and SWR
+
 ### Setup
 1. Install dependencies.
 2. Create a `.env` file in the root directory and add your database url.
